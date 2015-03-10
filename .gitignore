@@ -1,0 +1,27 @@
+# Output files
+*.*html*
+
+# Intermediate files
+*.md
+
+# Image files
+*.jp*g
+*.tif*
+*.xcf
+*.svg
+
+# Document files
+*.od*
+*.doc*
+*.xls*
+*.ppt*
+
+# R project files
+.Rproj.user
+.Rhistory
+.RData
+
+# shinyapps files
+rsconnect
+shinyapps
+content
